@@ -1,0 +1,2 @@
+# ArtistasCuritibaSwiftUI
+Somativo - SwiftUI
